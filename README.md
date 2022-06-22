@@ -1,4 +1,6 @@
 # Client_backend project
-In this project I'm not created authentication 
-If user or client want I will add this feature. 
+In this project I've not authenticted any user action as of now 
+
+I will add this feature in future as the situation arises or Client demands.
+
 Thank you.. 
